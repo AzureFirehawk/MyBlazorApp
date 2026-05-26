@@ -11,49 +11,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyBlazorApp
 build_property.RootNamespace = MyBlazorApp
-build_property.ProjectDir = G:\BYU-Idaho Classwork\CSE 325 .NET Software Development\MyBlazorApp\
+build_property.ProjectDir = G:\BYU-Idaho Classwork\CSE 325 .NET Software Development\BlazorTutorial\MyBlazorApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\BYU-Idaho Classwork\CSE 325 .NET Software Development\MyBlazorApp
+build_property.MSBuildProjectDirectory = G:\BYU-Idaho Classwork\CSE 325 .NET Software Development\BlazorTutorial\MyBlazorApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/MyBlazorApp/Components/App.razor]
+[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/BlazorTutorial/MyBlazorApp/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/MyBlazorApp/Components/Pages/Counter.razor]
+[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/BlazorTutorial/MyBlazorApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/MyBlazorApp/Components/Pages/Error.razor]
+[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/BlazorTutorial/MyBlazorApp/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/MyBlazorApp/Components/Pages/Home.razor]
+[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/BlazorTutorial/MyBlazorApp/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/MyBlazorApp/Components/Pages/Weather.razor]
+[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/BlazorTutorial/MyBlazorApp/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/MyBlazorApp/Components/Routes.razor]
+[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/BlazorTutorial/MyBlazorApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/MyBlazorApp/Components/_Imports.razor]
+[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/BlazorTutorial/MyBlazorApp/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/MyBlazorApp/Components/Layout/MainLayout.razor]
+[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/BlazorTutorial/MyBlazorApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-8h0dmotat2
 
-[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/MyBlazorApp/Components/Layout/NavMenu.razor]
+[G:/BYU-Idaho Classwork/CSE 325 .NET Software Development/BlazorTutorial/MyBlazorApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-wa7oawb2kj

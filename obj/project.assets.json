@@ -621,11 +621,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\MyBlazorApp\\MyBlazorApp.csproj",
+      "projectUniqueName": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\BlazorTutorial\\MyBlazorApp\\MyBlazorApp.csproj",
       "projectName": "MyBlazorApp",
-      "projectPath": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\MyBlazorApp\\MyBlazorApp.csproj",
+      "projectPath": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\BlazorTutorial\\MyBlazorApp\\MyBlazorApp.csproj",
       "packagesPath": "C:\\Users\\madis\\.nuget\\packages\\",
-      "outputPath": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\MyBlazorApp\\obj\\",
+      "outputPath": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\BlazorTutorial\\MyBlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\madis\\AppData\\Roaming\\NuGet\\NuGet.Config"
