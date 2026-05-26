@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\BlazorTutorial\\MyBlazorApp\\MyBlazorApp.csproj": {}
+    "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\cse_325\\MyBlazorApp\\MyBlazorApp.csproj": {}
   },
   "projects": {
-    "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\BlazorTutorial\\MyBlazorApp\\MyBlazorApp.csproj": {
+    "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\cse_325\\MyBlazorApp\\MyBlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\BlazorTutorial\\MyBlazorApp\\MyBlazorApp.csproj",
+        "projectUniqueName": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\cse_325\\MyBlazorApp\\MyBlazorApp.csproj",
         "projectName": "MyBlazorApp",
-        "projectPath": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\BlazorTutorial\\MyBlazorApp\\MyBlazorApp.csproj",
+        "projectPath": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\cse_325\\MyBlazorApp\\MyBlazorApp.csproj",
         "packagesPath": "C:\\Users\\madis\\.nuget\\packages\\",
-        "outputPath": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\BlazorTutorial\\MyBlazorApp\\obj\\",
+        "outputPath": "G:\\BYU-Idaho Classwork\\CSE 325 .NET Software Development\\cse_325\\MyBlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\madis\\AppData\\Roaming\\NuGet\\NuGet.Config"
